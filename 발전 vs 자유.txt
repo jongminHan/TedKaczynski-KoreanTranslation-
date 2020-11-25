@@ -196,7 +196,26 @@
 행동통제기술에 대한 가장 큰 접근성을 갖고 있을테고, 그들만이 이를 효과적으로 사용할 능력이 있기 때문입니다.
 
 이런 이유로 개인의 정신이나 심리적 능력을 향상시키는 도구(예를들어, 생체자기제어훈련, 기억력 약, 인간 정신과 컴퓨터의 연결)가, 설령 자발적 선택에 따른 것이라 하더라도 자유에 대한 위협이 되는 것입니다.
-예를들어, 모두가 그의 지하실에 거대한 컴퓨터를 두는 것은 물리적으로 불가능할 것입니다. 최고의 컴퓨터 시설은 사회가 보기에 가치있는 사람들: 정부 관계자, 과학자들만 접근할 수 있을 것입니다.
-따라서 이미 강한 사람들이 더욱 강해지게 강해지는 것입니다.
+예를들어, 모두가 지하실에 최첨단 컴퓨터를 두는 것은 물리적으로 불가능할 것입니다. 최고의 컴퓨터 시설은 사회가 보기에 가치있는 사람들: 정부 관계자, 과학자들만 접근할 수 있을 것입니다.
+따라서 이미 강한 사람들이 더욱 강해지는 것입니다.
 
-Also, the use of such mind-augmentation devices will not remain voluntary. All our modern conveniences were originally introduced as optional benefits which one could take or leave as one chose. However, as a result of the introduction of these benefits, society changed its structure in such a way that the use of modern conveniences is now compulsory: for it would be physically impossible to live in modern society without extensively using devices provided by technology. Similarly, the use of mind-augmenting devices, though nominally voluntary, will become in practice compulsory. When these devices have reached a high development and have come into wide use, a person refusing to use them would be putting himself in the position of a dumb animal in a world of supermen. He would simply be unable to function in a society structured around the assumption that most people have vastly augmented mental abilities. 
+Also, the use of such mind-augmentation devices will not remain voluntary. 
+All our modern conveniences were originally introduced as optional benefits which one could take or leave as one chose. 
+However, as a result of the introduction of these benefits, society changed its structure in such a way that the 
+use of modern conveniences is now compulsory: for it would be physically impossible to live in modern society 
+without extensively using devices provided by technology. Similarly, the use of mind-augmenting devices, 
+though nominally voluntary, will become in practice compulsory. 
+When these devices have reached a high development and have come into wide use, a person refusing to use 
+them would be putting himself in the position of a dumb animal in a world of supermen. 
+He would simply be unable to function in a society structured around the assumption that most people have vastly augmented mental abilities. 
+또한, 지능 향상 도구들을 사용은 결국 비자발적인 것으로 변하게 될 것입니다. 우리가 쓰는 현대의 편리한 도구들은 원래는 개인의 선택에 따라 사용할수도, 않을 수도 있는 선택사항이었습니다.
+그러나, 이러한 도구들이 사회에 이득을 가져다줌에 따라, 사회는 현대의 도구들을 반드시 사용해야만하는 형태로 재구성됩니다.
+따라서 기술이 제공하는 도구들을 사용하지 않고 현대 사회를 사는건 물리적으로 불가능합니다. 유사하게, 지능 향상 도구들 역시, 
+명목상으로는 자발적으로 사용하는 것이더라도, 실제로는 의무가 될 것입니다.
+이런 도구들이 높은 수준으로 개발되고, 널리 사용되면, 이를 사용하길 거부하는 사람은 스스로를 초인들의 세상의 멍청한 동물의 위치에 놓는 것입니다.
+그는 대부분의 사람들이 정신적 능력을 강화했으리라는 가정하에 구성된 사회에서 제대로된 기능을 하지 못할 것입니다.
+
+By virtue of their very power, the devices for augmenting or modifying the human mind and personality 
+will have to be governed by extensive rules and regulations. As the human mind comes to be more and more 
+an artifact created by means of such devices, these rules and regulations will come to be rules and 
+regulations governing the structure of the human mind. 
