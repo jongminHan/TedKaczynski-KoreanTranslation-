@@ -5,14 +5,13 @@
 원문 출처: https://theanarchistlibrary.org/library/ted-kaczynski-progress-versus-liberty
 
  이 글에서 지속적인 과학과 기술의 발전이 필연적으로 개인의 자유를 절멸시킬 것이라는 주장을 하고자 합니다. 저는 '필연적'이라는 단어를 다음과 같은 의미에서 사용했습니다.: 
- 어떤 사람은, 아마도 특정 조건에서, 무한한 기술이 자유와 공존하는 사회를 상상해볼 수 있을 것입니다. 하지만 이런 조건은 실제로 존재하지 않습니다. 
- 우리는 그러한 조건을 어떻게 이끌어낼 수 있을지, 그리고 과학의 발전이 개인의 자유를 절멸시키지 않도록할 실용적인 방법을 모릅니다. 
- 이 에세이의 끝 부분에서 우리는 이러한 상황에 대한, 그나마 실용적인 해결책을 제안할 것입니다.
- 제가 독자 여러분들에게 이미 익숙한 주장이나 사실을 반복한다 하더라도, 여러분들께서 참아주셨으면 합니다. 전 제가 독창적이라고 주장할 생각이 없습니다. 
- 저는 그저 위의 주장이 설득력있다고 생각할 뿐입니다. 전 새롭던 오래됐던, 여러 주장들을 최대한 간결하게 제시하려고 합니다. 그리고 독자 여러분들이, 대단히 명쾌한 해결책이지만, 
- 대부분의 사람들이 납득하기 힘들어하는, 제시된 해결책에 동의하시길 바랍니다.
- 개인을 통제하는 사회의 힘은 최근에 들어서 대단히 빠르게 확대되어가고 있습니다. 그리고 가까운 미래에 더욱 빠르게 확장될 것으로 예상할 수 있습니다. 
- 아래에 불길한 새로운 기술들을 소개하겠습니다.
+어떤 사람은, 아마도 특정 조건에서, 무한한 기술이 자유와 공존하는 사회를 상상해볼 수 있을 것입니다. 하지만 이런 조건은 실제로 존재하지 않습니다. 
+우리는 그러한 조건을 어떻게 이끌어낼 수 있을지, 그리고 과학의 발전이 개인의 자유를 절멸시키지 않도록할 실용적인 방법을 모릅니다. 
+이 에세이의 끝 부분에서 우리는 이러한 상황에 대한, 그나마 실용적인 해결책을 제안할 것입니다.
+제가 독자 여러분들에게 이미 익숙한 주장이나 사실을 반복한다 하더라도, 여러분들께서 참아주셨으면 합니다. 전 제가 독창적이라고 주장할 생각이 없습니다. 
+저는 그저 위의 주장이 설득력있다고 생각할 뿐입니다. 전 새롭던 오래됐던, 여러 주장들을 최대한 간결하게 제시하려고 합니다. 그리고 독자 여러분들이, 대단히 명쾌한 해결책이지만, 
+대부분의 사람들이 납득하기 힘들어하는, 제시된 해결책에 동의하시길 바랍니다. 개인을 통제하는 사회의 힘은 최근에 들어서 대단히 빠르게 확대되어가고 있습니다. 
+그리고 가까운 미래에 더욱 빠르게 확장될 것으로 예상할 수 있습니다. 아래에 불길한 새로운 기술들을 소개하겠습니다.
 
 1. 프로파간다와 이미지 제작 기술. 이 맥락에서 우리는 예술 또는 오락거리로 여겨지는 영화, 텔레비전, 문학에 대해서 무시해선 안될 것입니다. 
 이러한 매체들은 특정 관점을 알리는 프로파간다의 기능을 합니다. 그들이 의식적으로 특정 관점을  채택하지 않는다 하더라도, 시청자나 독자에게 특정 가치를 주입하는 역할을 합니다. 
@@ -38,18 +37,6 @@
 
 8. MIT의 마빈 민스키(미국에서 가장 선구자적인 컴퓨터 전문가)와 다른 컴퓨터 과학자들은 향후 15년 안에 인간의 지적능력을 한참 뛰어넘는 초인간적 컴퓨터가 등장할 것으로 예상하고 있습니다.
 이 컴퓨터들은 소위 말하는 "기계적"인 작업만을 하는 것이 아니라는 점이 중요합니다. 이들은 창의적인 생각을 할 수 있습니다.
-
-Many people are incredulous at the idea of a creative computer, but let it be remembered that (unless one resorts to supernatural explanations of human thought) 
-the human brain itself is an electro-chemical computer, operating according to the laws of physics and chemistry. 
-Furthermore, the men who have predicted these computers are not crackpots but first-class scientists. 
-It is difficult to say in advance just how much power these computers will put into the hands of what is vulgarly termed the establishment, 
-but this power will probably be very great. Bear in mind that these computers will be wholly under the control of the scientific, 
-bureaucratic, and business elite. The average person will have no access to them. Unlike the human brain, computers are more or less unrestricted as to size 
-(and, more important, there is no restriction on the number of computers that can be linked together over a long distance to form a single brain), 
-so that there is no restriction on their memories or on the amount of information they can assimilate and correlate. 
-Computers are not subject to fatigue, daydreaming, or emotional problems. They work at fantastic speed. 
-Given that a computer can duplicate the functions of the human brain, it seems clear in view of the advantages listed above that no human brain could 
-possibly compete with such a computer in any field of endeavor. 
 많은 사람들은 창의적인 컴퓨터라는 아이디어를 납득하기 힘들어 합니다. 하지만 (초자연적인 설명을 제외한다면)인간의 두뇌는 그 자체로 물리와 화학 법칙에 따라 움직이는 전기-화학적 컴퓨터라는 것입니다.
 게다가, 이러한 컴퓨터의 등장을 예상하는 사람들은 마약중독자들이 아니라 엘리트 과학자들이라는 것입니다.
 거칠게 말하자면, 이러한 컴퓨터가 기득권에게 얼마나 많은 힘을 가져다줄지 예측하기 쉽지 않습니다.
@@ -57,4 +44,29 @@ possibly compete with such a computer in any field of endeavor.
 평범한 사람들이 여기에 접근하는 것은 금지될 것입니다. 인간의 두뇌와는 달리, 그 크기에 제한이 없습니다.(그리고 더 중요한 것은, 얼마나 많은 컴퓨터들이 장거리에서 연결될지에 대해서도 제한이 없습니다.)
 따라서, 그들이 처리할 수 있는 기억량이나 정보량은 무제한적입니다.
 컴퓨터는 피로해지지도 않고, 몽상에 빠지지도 않고, 감정적 문제를 겪지도 않습니다. 그들은 엄청나게 빠르게 일을 처리합니다.
+컴퓨터가 인간 두뇌의 기능을 재현하는 것이 가능하다는 전제 하에, 컴퓨터가 모든 영역에서 압도적으로 인간보다 앞서가리라는 전망은 확실합니다.
+
+9. 감시를 위한 다양한 전자장비들. 이러한 장비들은 실제로 사용되고 있습니다. 예를들어, 신문보도에 따르면, 최근 뉴욕 경찰은 우범지대에 24시간 작동하는 감시카메라를 설치했다고 합니다.
+
+이것은 우려되는 과학기술의 일부분에 불과합니다. 무엇보다도 기술이 우리 사회 전반에 어떤 영향을 끼칠지 살펴보는 것이 중요합니다.
+기술의 발전은 법률과 규제가 증가하는 원인입니다.
+
+그 이유는 우리의 기술적 도구들이 과거의 도구들에 비해 잠재적으로 훨씬 강력하고 파괴적이기 때문입니다.(예를들어, 자동차와 말을 비교해봅시다.)
+그리고 체제의 복잡도가 높아짐에 따라 더욱 정교한 규제가 필요해집니다.
+또한, 중요한 역할을 하는 장치들(예를들어, 컴퓨터, 텔레비전 방송장비, 여객기)와 같은 도구들은 그 가격과 크기 때문에 평범한 개인이 소유할 수 없습니다.
+
+이런 장치들은 기업이나 정부 같은 대형 조직들에 의해 통제됩니다. 그리고 기득권의 목표를 이루기 위한 수단으로 사용됩니다.
+개인을 둘러싼 물리적 환경 뿐만 아니라, 그의 직업, 그의 취미생활까지, 그 스스로가 결정하는게 아니라 대형 조직들에 의해 만들어지고 통제됩니다.
+그리고 이는 기술의 발전에 필수적입니다. 기술을 규제하지 않으면, 그 결과는 재앙일 것입니다.
+
+여기서 발생하는 문제는 그저 기술이 선한 목적으로만 사용되도록 하는데에 있지 않다는 점을 주목할 필요가 있습니다.
+사실, 기득권의 손에 들어간 기술의 힘은 좋은 것을 이루고 악한 것을 제거하기 위해 사용되리라는 점을 확신할 수 있습니다.
+이런 힘은 너무나 강력해서, 몇십년 이내에 사실상 모든 악은 사라지게 될 것입니다. 하지만, 물론, 사회의 주류가 생각하는 "선"과 "악"이겠죠. 
+다시 말하자면, 기술은 사회 주류의 가치를 모두에게 주입하게 될 것입니다.
+
+이 모든 것은 권력욕에 심취한 악당들에 의해서가 아니라, 진심으로 세상이 나아지고 자유로워지기를 원하는 책임감 있는 사람들의 노력에 의해 이루어질 것입니다.
+물론, 그들이 생각하는 자유가 반드시 여러분이나 제가 생각하는 자유와 같지는 않을 것입니다.
+
+The most important aspect of this process will perhaps be the education of children, so let us use education as an example to illustrate the way the process works. Children will be taught—by methods which will become increasingly effective as educational psychology develops—to be creative, inquiring, appreciative of the arts and sciences, interested in their studies—perhaps they will even be taught nonconformity.
+
 
