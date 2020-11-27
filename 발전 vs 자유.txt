@@ -4,7 +4,7 @@
 번역자: 한정민
 원문 출처: https://theanarchistlibrary.org/library/ted-kaczynski-progress-versus-liberty
 
- 이 글에서 지속적인 과학과 기술의 발전이 필연적으로 개인의 자유를 절멸시킬 것이라는 주장을 하고자 합니다. 저는 '필연적'이라는 단어를 다음과 같은 의미에서 사용했습니다.: 
+ 이 에세이에서 저는 지속적인 과학과 기술의 발전이 필연적으로 개인의 자유를 절멸시킬 것이라는 주장을 하고자 합니다. 저는 '필연적'이라는 단어를 다음과 같은 의미에서 사용했습니다.: 
 어떤 사람은, 아마도 특정 조건에서, 무한한 기술이 자유와 공존하는 사회를 상상해볼 수 있을 것입니다. 하지만 이런 조건은 실제로 존재하지 않습니다. 
 우리는 그러한 조건을 어떻게 이끌어낼 수 있을지, 그리고 과학의 발전이 개인의 자유를 절멸시키지 않도록할 실용적인 방법을 모릅니다. 
 이 에세이의 끝 부분에서 우리는 이러한 상황에 대한, 그나마 실용적인 해결책을 제안할 것입니다.
@@ -126,7 +126,7 @@
 실제로, 과학자들이 정신적 요소를 생리학적, 신경학적, 그리고 생화학적으로 설명하게 됨에 따라, 시간이 갈수록 "정신적" 특성과 "육체적" 특성을 구분하기 힘들어질 것입니다.
 
 일단 인간에 대한 심리적, 유전적, 그리고 다른 형태의 조작에 기반한 사회가 완성되면, 이 사회는 영원히 존재하게 될 것입니다.
-왜냐하면 사람들은 인간 조작과 완벽하게 조화로운 사회를 선호하도록 조작될 것이고, 따라서 그들은 이런 사회에 어떤 불만도 갖지 않을 것이기 때문입니다.
+왜냐하면 사람들은 완벽하게 조화로운 사회를 선호하도록 조작될 것이고, 따라서 그들은 이런 사회에 어떤 불만도 갖지 않을 것이기 때문입니다.
 
 더 나아가, 일단 인간의 의식과 컴퓨터를 연결하는 기술이 광범위하게 사용되면, 인간은 결국 더 이상 정신적으로나 신체적으로나 개인으로 존재할 수 없게될 것입니다.
 
@@ -230,19 +230,6 @@
 예를들어, 마빈 민스키는 그가 자유를 적대시하기 때문에 컴퓨터를 연구하는 것이 아니라, 그가 지적인 도전을 좋아하기 때문입니다.
 아마도 그는 자유를 신봉할 것입니다. 하지만 그는 컴퓨터 전문가이기에, 그는 컴퓨터가 인간을 해방시키리라 스스로를 설득합니다.
 
-The main point here is that the danger to freedom is caused by the way people work and behave 
-on a day-to-day basis in relation to technology; and the way people behave in relation to 
-technology is determined by powerful social and psychological forces. To oppose these forces 
-a comparatively weak force like a body of philosophy is simply hopeless. You may persuade 
-the public to accept your philosophy, but most people will not significantly change their behavior 
-as a result. They will invent rationalizations to reconcile their behavior with the philosophy, 
-or they will say that what they do as individuals is too insignificant to change the course of events, 
-or they will simply confess themselves too weak to live up to the philosophy. 
-Conceivably a school of philosophy might change a culture over a long period of time 
-if the social forces tending in the opposite direction were weak. But the social forces guiding 
-the present development of our society are obviously strong, and we have very little time left—another 
-three decades likely will take us past the point of no return. 
-
 핵심은 사람들의 일상적인 일과 행동은 기술과 관련지어진다는 것입니다. 그리고 사람들이 기술과 관련하여 행동하는 방식은 강력한 사회적, 심리적 힘에 의해 정해집니다.
 상대적인 약한 힘인 철학 따위로 이런 강대한 힘에 저항하는 것에는 가망이 없습니다. 대중이 당신의 철학을 받아들이게끔 설득할수는 있겠으나, 대부분의 사람들을
 그들의 행동을 크게 바꾸지는 않을 것입니다. 사람들은 자신의 행동과 그 철학이 일치하게끔 합리화할 방법을 찾을 것입니다. 아니면 개인으로서의 자신은
@@ -265,4 +252,44 @@ program would have a chance of saving freedom?
 투표할 것입니다. 투표를 하는데에는 약간의 노력만 필요합니다. 대단한 의지력이 필요한 것이 아니죠. 그럼 우리에겐 이런 질문이 남습니다.
 어떤 법률이 자유를 구할 가능성이 있는가?
 
-I can think of only two possibilities that are halfway plausible. The discussion of one of these I will leave until later. The other, and the one that I advocate, is this: In simple terms, stop scientific progress by withdrawing all major sources of research funds. In more detail, begin by withdrawing all or most federal aid to research. If an abrupt withdrawal would cause economic problems, then phase it out as rapidly as is practical. Next, pass legislation to limit or phase out research support by educational institutions which accept public funds. Finally, one would hope to pass legislation prohibiting all large corporations and other large organizations from supporting scientific research. Of course, it would be necessary to eventually bring about similar changes throughout the world, but, being Americans, we must start with the United States; which is just as well, since the United States is the world’s most technologically advanced country. As for economic or other disruption that might be caused by the elimination of scientific progress—this disruption is likely to be much less than that which would be caused by the extremely rapid changes brought on by science itself. 
+I can think of only two possibilities that are halfway plausible. 
+The discussion of one of these I will leave until later. 
+The other, and the one that I advocate, is this: In simple terms, stop scientific progress 
+by withdrawing all major sources of research funds. In more detail, 
+begin by withdrawing all or most federal aid to research. If an abrupt 
+withdrawal would cause economic problems, then phase it out as rapidly as is practical. 
+Next, pass legislation to limit or phase out research support by educational institutions 
+which accept public funds. Finally, one would hope to pass legislation prohibiting all large corporations 
+and other large organizations from supporting scientific research. Of course, it would be necessary 
+to eventually bring about similar changes throughout the world, but, being Americans, 
+we must start with the United States; which is just as well, since the United States is the world’s 
+most technologically advanced country. As for economic or other disruption that might 
+be caused by the elimination of scientific progress—this disruption is likely to be much 
+less than that which would be caused by the extremely rapid changes brought on by science itself. 
+그나마 실현가능성있는 두 가지 가능성만을 떠올릴 수 있습니다.
+그 중 하나는 훗날 다루어보겠습니다.
+제가 지지하는 다른 하나는 이것입니다: 쉽게 말해서, 연구 투자금을 철회해 과학의 발전을 중단해야합니다.
+자세히 말하자면, 연구에 투자되는 연방기금을 전부 또는 대부분을 철회해야 합니다.
+갑작스런 철회가 경제적 문제를 일으킨다면, 최대한 빠르게 단계적으로 철회하면 됩니다.
+다음에는, 공공투자를 받는 교육기관에 의한 연구를 제한하거나, 단계적으로 폐지하는 법률을 통과시켜야합니다.
+마지막으로, 모든 대기업을 비롯한 거대 단체들이 과학연구에 투자하는 것을 막는 법률을 통과시켜야합니다.
+물론, 최종적으로는 비슷한 시도를 전세계를 상대로 해야할 것입니다. 하지만 미국인으로서, 우리는 미국에서부터 시작해야합니다.
+또한 좋은 시작점이기도 하죠. 미국이 전세계적으로 가장 기술적으로 진보한 나라이니까요.
+과학의 발전이 중단됨으로서 벌어질 경제적 혼란이나 여타 다른 혼란의 문제는, 과학의 발전 그 자체로 인해 발생할 혼란보다 작을 것입니다.
+ 
+인정하겠습니다. 이미 견고하게 자리잡은 거대 과학을 봤을 때, 이러한 법률이 시행될 가능성은 희박합니다.
+그러나, 한 개 이상의 적극적인 시민단체가 결성되어 수년에 걸쳐 대중에게 과학의 발전이 어떤 결과를 가져다줄지 알려주고, 적절한 입법청원을 한다면, 그러한 제도가 시행될 일말의 가능성이 있다고 생각합니다.
+설령 성공 가능성이 극히 작다고 해도, 여전히 시도해볼 가치가 있다고 생각합니다. 이것 외에는 인류 전체의 자유를 박탈당하는 결과밖에 없을테니까요.
+ 
+This solution is bound to be attacked as “simplistic.” But this ignores the fundamental question, namely: 
+Is there any better solution or indeed any other solution at all? My personal opinion is that there is no other solution. 
+However, let us not be dogmatic. Maybe there is a better solution. But the point is this: If there is such a solution, 
+no one at present seems to know just what it is. Matters have progressed to the point where we can no longer afford 
+to sit around just waiting for something to turn up. By stopping scientific progress now, or at any rate slowing it 
+drastically, we could at least give ourselves breathing space during which we could attempt to work out another solution, if one is possible. 
+ 이 해결책은 지나치게 "단순하다"는 공격을 받을 수 밖에 없습니다. 하지만 이건 근본적인 질문을 무시한 것입니다.:
+ 그렇다면 더 나은 해결책, 아니면 다른 해결책이 있기는 한가요? 제 개인적인 의견은 다른 해결책은 없다는 것입니다.
+ 하지만, 독단적인 주장을 하지는 않겠습니다. 어쩌면 더 나은 해결책이 있을수도 있습니다. 하지만 핵심은: 만일 그러한 해결책이 있다면, 현재 어느 누구도 그 해결책이 무엇인지 모른다는 것입니다.
+ 이 문제는 가만히 앉아서 무언가가 나와주기를 기다릴 수 있는 지점을 넘어섰습니다. 지금 당장 과학의 발전을 중단시키거나, 느리게 만들면, 우리는 다른 해결책을 시도해볼 최소한의 공간을 확보할 수 있습니다.
+ 
+There is one putative solution the discussion of which I have reserved until now. One might consider enacting some kind of bill of rights designed to protect freedom from technological encroachment. For the following reasons I do not believe that such a solution would be effective. 
