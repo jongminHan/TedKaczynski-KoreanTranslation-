@@ -7,7 +7,7 @@
 
 The System has played a trick on today's would-be revolutionaries and rebels. 
 The trick is so cute that if it had been consciously planned one would have to admire it for its almost mathematical elegance. 
-체제는 오늘날의 예비 혁명가, 반항아들에게 속임수를 쓰고 있습니다.
+체제는 오늘날의 예비 혁명가, 반항아들에게 속임수를 쓰고 있다.
 그 속임수는 거의 수학적 아름다움이 느껴질 정도로 정교해서, 누군가가 의도적으로 계획한 것이라면 그를 존경하지 않을 수 없다.
 
 1. 체제가 아닌 것
@@ -17,9 +17,21 @@ it is not the cops who maltreat protesters, it is not the CEOs of the multinatio
 in their laboratories who criminally tinker with the genes of living things. All of these people are servants of the System, 
 but in themselves they do not constitute the System. In particular, the personal and individual values, attitudes, beliefs, 
 and behavior of any of these people may be significantly in conflict with the needs of the System. 
-일단 무엇이 체제가 아닌 것인지 확실히 하자. 조지 w 부시와 그의 참모들과 관료들, 시위대를 학대하는 경찰관들, 다국적 기업의 CEO들, 
-그리고 실험실에서 유전자 조작을 통해 사악한 생명체를 만들고 있는 프랑켄슈타인들은 체제가 아니다.
+일단 무엇이 체제가 아닌 것인지 확실히 하자. 조지 w 부시와 그의 참모들과 관료들, 시위자를 학대하는 경찰관들, 다국적 기업의 CEO들, 
+그리고 실험실에서 유전자 조작을 통해 사악한 생명체를 만들고 있는 프랑켄슈타인 박사들은 체제가 아니다.
 이들은 그저 체제의 하수인들일 뿐이며, 그들 자체로는 체제가 아니다. 어떤 경우에는, 이들의 개인적인 가치, 태도, 신념, 행동은 체제의 필요와 충돌할 수도 있다.
 
- To illustrate with an example, the System requires respect for property rights, yet CEOs, cops, scientists, and politicians sometimes steal. (In speaking of stealing we don't have to confine ourselves to actual lifting of physical objects. We can include all illegal means of acquiring property, such as cheating on income tax, accepting bribes, and any other form of graft or corruption.) But the fact that CEOs, cops, scientists, and politicians sometimes steal does not mean that stealing is part of the System. On the contrary, when a cop or a politician steals something he is rebelling against the System's requirement of respect for law and property. Yet, even when they are stealing, these people remain servants of the System as long as they publicly maintain their support for law and property. 
+To illustrate with an example, the System requires respect for property rights, yet CEOs, cops, scientists, 
+and politicians sometimes steal. (In speaking of stealing we don't have to confine ourselves to actual lifting 
+of physical objects. We can include all illegal means of acquiring property, such as cheating 
+on income tax, accepting bribes, and any other form of graft or corruption.) 
+But the fact that CEOs, cops, scientists, and politicians sometimes steal does not mean 
+that stealing is part of the System. On the contrary, when a cop or a politician steals something he is rebelling 
+against the System's requirement of respect for law and property. Yet, even when they are stealing, 
+these people remain servants of the System as long as they publicly maintain their support for law and property. 
+
+예를 들자면, 체제는 사유재산권을 보호한다. 그러나 CEO, 경찰관, 과학자, 그리고 정치인들은 가끔 도둑질을 한다.(여기서 말하는 도둑질은, 물리적인 실체가 있는 물건에 대한 도둑질 뿐만 아니라,
+탈세, 뇌물, 그리고 다른 형태의 부패까지 포함한다.) 하지만 CEO, 경찰관, 과학자, 그리고 정치인들이 가끔 도둑질을 한다고 해서 도둑질이 체제의 일부가 되는 것은 아니다.
+반대로, 경찰관이나 정치인이 도둑질을 할 때 그들은 법률과 사유재산권을 짓밟는 것이다. 그럼에도, 그들이 도둑질을 할 때 조차, 그들은 겉으로는 법률과 사유재산권을 지지함으로써
+체제의 하수인으로서 복무한다.
  
