@@ -1,79 +1,29 @@
 1985년 12월, 샌프란시스코 수사기관에게
 
-The bomb that crippled the right arm of a graduate student in electrical engineering and damaged a computer lab 
-at U. of Cal. Berkeley last May was planted by a terrorist group called Freedom Club. 
-We are also responsible for some earlier bombing attempts; among others, the bomb that injured a professor 
-in the computer science building at U. of Cal., the mail bomb that injured the secretary of computer expert 
-Patrick Fischer at Vanderbilt University 3 ½ years ago, and the fire bomb planted at the Business School 
-at the U. of Utah, which never went off. We have nothing against academics as such. We could have attacked 
-businessmen or scientists working for private corporations. 
-But academics are easy targets because anyone can walk into college buildings without being questioned, 
-and academics are less likely to be suspicious of a package received in the mail than someone in the business world would be. 
 
-지난 5월 UC 버클리의 컴퓨터실을 망가뜨리고, 전기공학과 대학원생의 오른팔을 날려버린 폭탄은 테러단체 Freedom Club이 만든 것입니다.
-UC 버클리의 컴퓨터학과 건물의 교수에게 부상을 입힌 폭탄, 3년 6개월 전 밴더빌트 대학교의 컴퓨터 전문가 패트릭 피셔의 비서에게 부상을 입힌 폭탄, 유타 대학교 경영대학원에서 해체된 폭탄 모두 우리가 한것입니다.
-우리는 교수들에게는 별다른 반감이 없습니다. 우리는 사기업에서 근무하는 기업가들이나 과학자들을 공격할 수도 있었습니다.
-하지만 기업계에서 근무하는 사람들에 비해, 학계 사람들은 별 다른 의심없이 소포를 열어보는 경향이 있고, 누구든 자유롭게 대학 건물에 입장할 수 있다는 점에서 교수들이 손쉬운 타겟이었습니다.
+지난 5월 UC 버클리의 컴퓨터실을 망가뜨리고, 전기공학과 대학원생의 오른팔을 날려버린 폭탄은 테러단체 Freedom Club이 만든 것입니다. UC 버클리의 컴퓨터학과 건물의 교수에게 부상을 입힌 폭탄, 3년 6개월 전 밴더빌트 대학교의 컴퓨터 전문가 패트릭 피셔의 비서에게 부상을 입힌 폭탄, 유타 대학교 경영대학원에서 해체된 폭탄 모두 우리가 한것입니다. 우리는 교수들에게는 별다른 반감이 없습니다. 우리는 사기업에서 근무하는 기업가들이나 과학자들을 공격할 수도 있었습니다. 하지만 기업계에서 근무하는 사람들에 비해, 학계 사람들은 별 다른 의심없이 소포를 열어보는 경향이 있고, 누구든 자유롭게 대학 건물에 입장할 수 있다는 점에서 교수들이 손쉬운 타겟이었습니다.
 
-We have waited until now to announce ourselves because our earlier bombs were embarrassingly ineffectual. 
-The injuries they inflicted were relatively minor. In order to influence people, a terrorist group must show a certain amount of success. 
-When we finally realized that the amount of smokeless powder needed to blow up anyone or anything was too large to be practical, 
-we decided to take a couple of years off to learn something about explosive and develop an effective bomb. 
-이전의 폭탄들은 한심할 정도로 약했기 때문에 우리는 지금까지 기다려야했습니다.
-그 폭탄들은 큰 부상을 입히지 못했습니다. 사람들에게 영향을 끼치기 위해서는, 테러단체는 어느 정도의 성공을 보여야할 필요가 있습니다.
-우리는 무연화약으로 사람을 날려버리려면, 폭탄 크기가 지나치게 커진다는 점을 깨달았고, 효율적인 폭탄을 개발하기 위해 몇년간 공부해야 했습니다.
+이전의 폭탄들은 한심할 정도로 약했기 때문에 우리는 지금까지 기다려야했습니다. 그 폭탄들은 큰 부상을 입히지 못했습니다. 사람들에게 영향을 끼치기 위해서는, 테러단체는 어느 정도의 성공을 보여야할 필요가 있습니다. 우리는 무연화약으로 사람을 날려버리려면, 폭탄 크기가 지나치게 커진다는 점을 깨달았고, 효율적인 폭탄을 개발하기 위해 몇년간 공부해야 했습니다.
 
+우선 우리 중 누구도 기본적인 지식이 없었기에, 기초적인 물리, 화학, 그리고 수학을 공부해야 했습니다. 그리고 우리는 오랜기간 실험에 매진해야 했습니다. 이제서야 60g도 안되는 물질로 전기공학자의 팔을 날려버릴만한 폭탄을 만들 수 있었습니다. 그가 만약에 서있었다면 파편이 팔이 아니라 몸통에 박혀 죽었을 것입니다. 우리가 앞으로 5kg, 10kg, 20kg짜리 폭탄으로 무슨 짓을 할지는 상상에 맡기겠습니다. 그 대학의 컴퓨터 미치광이들이 불꽃놀이를 좋아했으면 좋겠네요. 조만간 좋은걸 보게될테니까요.
 
-First, we had to learn some basic physics, chemistry and mathematics, since none of us had any scientific background to start with. 
-Then we had to go through some time-consuming experiments. That we now have an effective bomb is shown by what we did to 
-that electrical engineer’s arm with less than two ounces of explosive. He would have been killed if he had been standing 
-so as to take the fragments in the body instead of the arm. You can imagine what we will be able to do when we have worked out 
-ways to use this explosive in larger quantities, say ten, twenty five or fifty pounds. We hope those computer freaks over 
-at the university like fireworks, cause they are going to see some good ones. 
-우선 우리 중 누구도 기본적인 지식이 없었기에, 기초적인 물리, 화학, 그리고 수학을 공부해야 했습니다.
-그리고 우리는 오랜기간 실험에 매진해야 했습니다. 이제서야 60g도 안되는 폭탄으로 전기공학자의 팔을 날려버릴만한 폭탄을 만들 수 있었습니다.
-그가 만약에 서있었다면 파편이 팔이 아니라 몸통에 박혀 죽었을 것입니다. 우리가 5kg, 10kg, 20kg짜리 폭탄으로 무슨 짓을 할지는 상상에 맡기겠습니다.
-그 대학의 컴퓨터 미치광이들이 불꽃놀이를 좋아했으면 좋겠네요. 조만간 좋은걸 보게될테니까요.
+지난 5월의 폭탄을 우리가 만들었음을 증명하기 위해, 그 사건을 담당한 FBI 수사관들과 우리만 알 수 있는 정보를 언급하겠습니다. 그 폭발물은 명목상 지름 3/4인치(실제로는 13/16인치)짜리 쇠파이프에 담겨있었습니다. 파이프의 끝부분은 쇠 핀에 연결된 지름 5/16인치의 쇠 플러그로 막혀있었습니다. 플러그 하나에는 FC(Freedom Club의 약자)라는 문자가 새겨져 있었습니다.(해당 플러그를 보호하기 위해 금속 디스크를 덮어씌웠습니다. 이 부분이 폭발하지 않았다면, 이걸 제거해야 문자 FC를 볼수 있을 겁니다.) 그 폭탄은 가느다란 철 필라멘트에 흐르는 전기로 점화되었습니다. 플러그에서 필라멘트로 연결되는 18게이지 전선은 녹색으로 전열처리되었습니다. 나머지 전선은 16 게이지였습니다. 6개의 사이즈 D 듀라셀 건전지가 사용되었습니다. 이것으로 충분히 증명되었으리라 생각됩니다.
 
- To prove that we are the ones who planted to bomb at U. of Cal. last May, we will mention a few details 
- that could be known only to us and the FBI men who investigated the incident. 
- The explosive was contained in an iron pipe of nominal ¾ inch (actually about 13/16 inch) inside diameter. 
- The ends of the pipe were closed with iron plugs secured with iron pins, of 5/16 inch diameter. 
- One of the plugs had the letters FC (for Freedom Club) marked on it. (There was a metal disc attached to the plug 
- to help assure a good seal. If this was not blown off it would be necessary to remove it in order to see the letters FC.) 
- The bomb was ignited by electricity passing through a fine steel filament. The load-wires passing through the plug to 
- the filament were 18 gauge with green insulation. The rest of the wiring was 16 gauge with flesh covered insulation. 
- Six Duracell size D batteries were used. This should be enough to prove that we planted the bomb. 
-지난 5월의 폭탄을 우리가 만들었음을 증명하기 위해, 그 사건을 담당한 FBI 수사관들과 우리만 알 수 있는 정보를 언급하겠습니다.
-그 폭발물은 명목상 지름 3/4인치(실제로는 13/16인치)짜리 쇠파이프에 담겨있었습니다.
-파이프의 끝부분은 쇠 핀에 연결된 지름 5/16인치의 쇠 플러그로 막혀있었습니다.
-플러그 하나에는 FC(Freedom Club의 약자)라는 문자가 새겨져 있었습니다.(해당 플러그를 보호하기 위해 금속 디스크를 덮어씌웠습니다. 이 부분이 폭발하지 않았다면, 이걸 제거해야 문자 FC를 볼수 있을 겁니다.)
-그 폭탄은 가느다란 철 필라멘트에 흐르는 전기로 점화되었습니다. 플러그에서 필라멘트로 연결되는 18게이지 전선은 녹색으로 전열처리되었습니다. 나머지 전선은 16 게이지였습니다.
-6개의 듀라셀 사이즈 D 배터리가 사용되었습니다. 이것으로 충분히 증명되었으리라 생각됩니다.
-
-We enclose a brief statement partly explaining our aims. 
-We hereby give the San Francisco Examiner permission to print in full any and all of the material contained in this envelope. 
-We give ANYONE permission to print it. We want the material to be in the public domain so that anyone can print it. 
-[Handwritten: Here should read “We don’t know if”] this note is legally adecate [sic] to put our statement in the public domain, 
-especially since we are not going to sign our names [crossed out: to this letter], 
-but you can be sure we are not going to sue anyone for infringement of copyright for printing this material, 
-so you might as well go ahead and print it. 
-우리의 목표를 부분적으로 설명하는 간단한 성명서를 동봉했습니다. 우리는 샌프란시스코 수사기관에 이 편지에 포함된 모든 내용을 출판할 수 있도록 허락합니다.
-우리는 모두에게 이 글을 출판할 권리를 허락합니다. 우리는 누구든지 이 글을 출판할 수 있도록 공유할 수 있도록 자유이용 저작물로 내놓고자 합니다.
-이 편지에 어떠한 서명도 하지 않았기 때문에, 법률적 요건을 충족시킬 수 있을지 잘 모르겠습니다.
-하지만 우리는 이 글이 출판한 어느 누구도 고소하지 않을 것입니다. 따라서 안심하고 출판해도 됩니다.
+우리의 목표를 부분적으로 설명하는 간단한 성명서를 동봉했습니다. 우리는 샌프란시스코 수사기관에 이 편지에 포함된 모든 내용을 출판할 수 있도록 허락합니다. 우리는 모두에게 이 글을 출판할 권리를 허락합니다. 우리는 누구든지 이 글을 출판할 수 있도록 퍼블릭 도메인으로 내놓고자 합니다. 우리는 이 편지에 어떠한 서명도 하지 않았기 때문에, 이것만으로 퍼블릭 도메인의 법률적 요건을 충족시킬 수 있을지 잘 모르겠습니다. 하지만 우리는 이 글을 출판한 어느 누구도 고소하지 않을 것입니다. 따라서 안심하고 출판해도 됩니다.
 
 - Freedom Club으로부터 
 
-1. The aim of the Freedom Club is the complete and permanent destruction of modern industrial society in every part of the world. 
-This means no more airplanes, no more radios, no more miracle drugs, no more paved roads, and so forth. 
-Today a large and growing number of people are coming to recognize the industrial-technological system as the greatest enemy of freedom. 
-Many evidences of these changing attitudes could be cited. For the moment we content ourselves with mentioning one statistic. 
-“According to a January 1980 poll, only 33 percent of the citizens of the Federal Republic of Germany [West Germany] 
-still believe that technological development will lead to greater freedom; 56 percent think it is more likely 
-to make us less free.” This is from “1984: Decade of the Experts?” – an article by Johanno Strasser in 1934 revisted: 
-Totalitarianism in our century, edited by Irving Howe and published by Harper and Row, 1983. 
-(This article as a whole helps to show the extent to which technology is becoming a target of social rebellion.) 
-Freedom Club은 전세계의 모든 현대 산업사회의 완전하고, 영구적인 파괴를 목표로 한다. 이는 지구상의 모든 비행기, 라디오, 약물, 포장도로 등을 포함한다.
-현재 점점 더 많은 사람들이 기술-산업 체제야 말로 우리의 자유를 위협하는 최대의 적이라는 것을 깨닫고 있다. 수많은 증거들이 있다. 지금 우리는 하나의 통계만 제시하고자 한다.
-"1980년 1월의 설문조사에 따르면, 독일연방공화국(서독) 시민의 33%만이 기술의 발전이 우리를 자유롭게 할 것으로 믿는다고 한다. 이는 "1984: Decade of the Experts?"
+1. Freedom Club은 전세계의 모든 현대 산업사회의 완전하고, 영구적인 파괴를 목표로 한다. 이는 지구상의 모든 비행기, 라디오, 기적의 의약품, 포장도로 등을 포함한다. 현재 점점 더 많은 사람들이 기술-산업 체제야 말로 우리의 자유를 위협하는 최대의 적이라는 것을 깨닫고 있다. 수많은 증거들이 있다. 지금 우리는 하나의 통계만 제시하고자 한다. "1980년 1월의 설문조사에 따르면, 독일연방공화국(서독) 시민의 33%만이 기술의 발전이 우리를 자유롭게 할 것으로 믿는다고 한다. 그리고 56%는 기술로 인해 자유를 잃게될 것이라고 믿는다." 이는 요하노 슈트라세(Johano Strasser)의 에세이 "1984: Decade of the Experts?"에서 인용한 것이다.(이 에세이를 통해 기술 그 자체가 혁명의 대상이 되고 있음을 알 수 있다.) 
+
+2. 사회주의를 중심으로한 낡은 혁명 이념들의 공허함은 확실히 드러났다. 이제부터 반란의 칼끝은 기술-산업 체제를 지배하는 정치적 이념이 아닌, 기술-산업 체제 그 자체를 향하게 될 것이다. 모든 이념과 정치 체제는 거짓말이다. 어떤 이념과 정치 체제던, 소수의 특별한 사람들에게 권력을 집중시킬 것이고, 다수의 우리들을 소외시킬 것이다. 이로부터 벗어나는 유일한 방법은, 체제 전체를 박살내고, 체제에 의존하지 않고 사는 것이다. 평생을 노예로 학대당하며 사느니, 차라리 가난하고 자유롭게 사는 것이 낫다.
+
+3. 어떤 이념이나 정치 체제도 산업사회의 문제점을 피해가지 못할 것이다. 어떤 정치집단이 권력을 잡던간에, 산업 사회는 대규모의 조직화와, 소수의 엘리트 지도자들과 전문가들이 권력을 독점할 것을 요구한다. 엘리트들의 의도가 완벽하게 이타적이라 하더라도, 그들은 체제를 유지하기 위해 어쩔 수 없이 우리를 통제하고 착취하게될 것이다. 따라서 기술의 본성 그 자체가 사악한 것이다.
+
+4. 인간은 집단을 이루어 사는 사회적 동물이다. 하지만 여기서 말하는 집단은, 100명가량의 사람들이 서로를 잘 알고지내는 작은 집단을 의미한다. 인간은 거대조직의 하찮은 부품으로 살 수 없다. 그러나 산업화된 사회는 인간에게 거대조직의 부품으로 살것을 강요한다.
+
+5. Freedom Club은 일체의 공산주의, 사회주의, 좌파 이념에 확고하게 반대한다. 그 이유는 좌파는 언제나 의도적으로나 비의도적으로나 혁명의 동력을 좌파 운동으로 바꾸기 때문이다. 지금까지, 좌파는 저항의 이미지를 갖고 있었다. 따라서 저항 운동에 가담하고자 하는 많은 사람들이 좌경화된다. 충분히 많은 좌파들이 저항운동에 가담하게되면, 이 운동은 좌파스러운 분위기를 풍기게 되고, 더 많은 좌파들이 가담하게되고, 결국엔 또 하나의 사회주의 파벌로 전락한다. 따라서 Freedom Club은 스스로를 완벽하게 모든 형태의 좌파로부터 단절한다. 그렇다고 해서 우리가 우익이 되는 것은 아니다. 우리는 비정치적이다. 정치는 우리가 정말 중요한 사안에 집중하는 것을 방해한다.
+
+6. 우리를 단순 가학성애자, 폭력광이라거나, 테러리즘을 가볍게 여긴다고 생각하지 말라. 우리는 젊지만, 성급하지 않다. 우리는 깊은 생각 끝에 테러리스트가 되기로 결심했다.
+
+=================================================================================
+앞서 말한 성명은 우리의 목표와 동기의 극히 일부분만을 설명한 것입니다. 추후에 더 자세히 설명하겠습니다.
