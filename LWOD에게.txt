@@ -61,5 +61,59 @@ LWOD는 우리의 글을 연재해줄 수 있나요? 아니면, 더 나은 방�
  the few places where it is possible to get LWOD and maybe catch us that way. 
  1995년 5월 1일 <샌프란시스코 크로니클>에 비밀 광고를 실어 답변을 주세요. 광고는 "MCHVP에게"라는 단어로 시작해야합니다. LWOD 대신 <샌프란시스코 크로니클>을 통해 답변을 받는 이유는,
  우리는 LWOD를 얻을 수 있는 장소를 하나밖에 모르기 때문입니다. 만약 FBI가 이 편지를 손에 넣는다면, LWOD를 판매하는 장소 몇군데를 감시할 것이고, 자칫 잡힐수도 있습니다.
+
+ We enclose a copy of our letter to the NY Times.
+우리가 뉴욕타임즈에게 보냈던 편지 사본을 동봉했습니다.
+
+Place the ad in the classification #420, “Personals.” To place ad contact
+광고는 분류코드 #420, "개인"란에 실어주세요. 아래 연락처를 통해 광고를 실을 수 있습니다.
+
+San Francisco Newspaper Agency
+Classified Dept.
+925 Mission Street
+San Francisco, CA 94103
+
+toll free phone (800) 227–4423
+
+Best Regards,
+존경을 담아,
+FC
  
- 
+
+
+Confidential note to LWOD
+
+CONFIDENTIAL NOTE
+
+Enclosed is a letter that presumably will require general discussion by the LWOD staff. But this confidential note contains material that should be known to as few people as possible. So whichever LWOD person opens this envelope, he or she should hide this note and reveal its existence to no one, except when absolutely necessary. Read the other material in this envelope before reading the rest of this confidential[crossed out] note.
+
+The material in this envelope constitutes evidence in a felony case, so LWOD might get in trouble if it doesn’t [crossed out] turn this stuff over to the FBI. It is always possible that your group may contain an FBI infiltrator who will report our letter to his bosses. And if you do publish our manuscript the FBI will know about it. So LWOD may want to give these documents to the FBI (except this confidential note, which can safely be kept secret).
+
+This creates a possible problem, because the FBI will be able to confuse you or us by sending LWOD a fake manuscript or placing a fake ad in the SF Chronicle or some such COINTELPRO trick. Or the FBI may ask the Chronicle not to print your ad on the grounds that it would contribute to “criminal” activity. To get around that, we should have some completely confidential way of communicating. This can be established as follows.
+
+Place an ad in the classified section of the Los Angeles Times, classification #1660, “Personal messages.” The ad should preferably appear on May 9, 1995, but in any case leave a few days between the time when the Chronicle ad appears and the time when the LA Times ad appears. This ad should begin, “Dear Stargazer, the mystic numbers that control your fate are ...” and it should be signed “Numerologist.” In between there will be a sequences of numbers conveying a coded message.
+
+The code works this way. It will be random number code and therefore unbreakable. Use the series of random numbers that we have given on another sheet. Begin by encoding your message according to the following system: For A put 1, for B put 2, for C [crossed out] put 3, etc. up to 26 for Z. For space between two words put 27, for period put 28, for comma put 29, for question mark put 30. When you have your message coded by this system you will have a series of numbers that we can call the basic sequence. You then change the basic sequence by adding to it the numbers of the random sequence. To the first number of the basic sequence add the first number of the random sequence, to the second number of the basic sequence add the second number of the random sequence and so forth. Whenever the sum is greater that 30, subtract 30 from it. The resulting sequence of numbers is what you publish in the LA Times. See example on other sheet.
+
+In your coded ad please give us an address to which we can send you messages with assurance that they will be [crossed out] completely safe and confidential. (We won’t send you any uncoded message that could get you in trouble if it got into the wrong hands.) Also please tell us in your coded ad whether your open ad in SF Chronicle is authentic and can be taken at face value.
+
+Your coded ad probably won’t use up all the numbers of the random sequence. Have the rest of the sequence in case we want it for future use. NEVER USE ANY PART OF THE RANDOM SEQUENCE TWICE. To do so would enable the FBI to decode the message.
+
+We give a separate, confidential identifying number for verification of any messages we may send you: 82771
+
+Legally the FBI can’t open first class mail without a warrant, but there’s always a chance they might have opened the present envelope anyway, so this system of passing confidential messages isn’t 100% secure.
+
+FC
+
+(OVER)
+
+[Handwritten:] Los Angeles Times Classified Ads Phone Numbers
+
+(213) 629–4411
+(800) 234–4444
+
+Address of Los Angeles Times
+
+Los Angeles Times
+Times Mirror Square
+Los Angeles, CA 90052 
